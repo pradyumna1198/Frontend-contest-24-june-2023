@@ -1,0 +1,28 @@
+*{
+    
+    background-color: rgb(90, 88, 88);
+    color: antiquewhite;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 100%;
+  }
+th, td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+
+  
+  
+
+.container{
+    width: 600px !important;
+    position:absolute;
+    left:25%;
+    right:10%;
+    top:20%;
+}   
